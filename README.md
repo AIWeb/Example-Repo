@@ -7,5 +7,5 @@ Check out [http://rogerdudler.github.com/git-guide/]( http://rogerdudler.github.
 Names
 =======
 
-Derek Ries
-JJ Kim
++ Derek Ries
++ JJ Kim
