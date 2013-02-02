@@ -12,3 +12,4 @@ Names
 + JJ Kim
 + Brea Lee
 + Eric Cross
++ Kris Secor
