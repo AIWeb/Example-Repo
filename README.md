@@ -8,7 +8,7 @@ Check out [http://rogerdudler.github.com/git-guide/]( http://rogerdudler.github.
 Names
 =======
 
-+ Derek Ries
++ Derek Ries - influenztial@gmail.com
 + JJ Kim
 + Brea Lee
 + Eric Cross
